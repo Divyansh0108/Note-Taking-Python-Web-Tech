@@ -28,7 +28,7 @@ git clone https://github.com/Divyansh0108/Note-Taking-Python-Web-Tech
 <p>2. Navigate to Project Directory</p>
 
 ```
-cd django-note-taking-app
+cd Note-Taking-Python-Web-Tech
 ```
 
 <p>3. Create and Activate Virtual Environment (Optional)</p>
