@@ -22,7 +22,7 @@ Here're some of the project's best features:
 <p>1. Clone the repo</p>
 
 ```
-git clone https://github.com/your-username/django-note-taking-app.git
+git clone https://github.com/Divyansh0108/Note-Taking-Python-Web-Tech
 ```
 
 <p>2. Navigate to Project Directory</p>
