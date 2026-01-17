@@ -1,4 +1,4 @@
-<h1 align="center" id="title">Note Taking Django Project for WebTech Lab</h1>
+<h1 align="center" id="title">Note Taking Django</h1>
 
 <p id="description">This Django Note Taking App is a web application that allows users to create view edit and delete notes. It provides a user-friendly interface for managing notes efficiently. The app is built using Django a high-level Python web framework and integrates various features such as authentication static file serving and database management.</p>
 
